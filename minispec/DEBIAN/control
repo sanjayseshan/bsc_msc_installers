@@ -1,0 +1,6 @@
+Package: minispec-msc
+Version: 0.1
+Maintainer: Sanjay Seshan
+Architecture: amd64
+Depends: bluespec-bsc, gcc, build-essential, python3
+Description: Minispec is a Hardware Description Language designed for teaching purposes. It is inspired by Bluespec, and the current implementation heavily leverages the Bluespec compiler, e.g., for type checking and to produce Verilog code. 

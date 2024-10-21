@@ -1,0 +1,6 @@
+Package: bluespec-bsc
+Version: 2024.07
+Maintainer: Sanjay Seshan
+Architecture: amd64
+Depends: gcc, build-essential
+Description: Compiler, simulator, and tools for the Bluespec Hardware Description Language

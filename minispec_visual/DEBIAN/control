@@ -1,0 +1,6 @@
+Package: minispec-visualizer
+Version: 0.1
+Maintainer: Sanjay Seshan
+Architecture: amd64
+Depends: bluespec-bsc, gcc, build-essential, python3, minispec-msc
+Description: Minispec visualizer
